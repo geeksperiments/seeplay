@@ -19,3 +19,7 @@ node_modules/
 .env
 .env.test
 
+.metals/metals.h2.db
+.metals/metals.lock.db
+.metals/metals.log
+.vscode/settings.json
